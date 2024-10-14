@@ -1,0 +1,19 @@
+Launch the Tool: Run the script in Python to start the graphical interface.
+
+Enter Target Information:
+
+Input the target IP address or subnet.
+Select usernames and password files (either download from Google Drive or browse locally).
+Select Attack Type:
+
+Choose Brute Force or Dictionary Attack.
+Select Service:
+
+Choose the service you want to attack (SSH, FTP, HTTP, Telnet, or SMTP).
+Launch Attack:
+
+Click Launch Attack to start the process.
+Monitor the real-time results or cancel the attack if needed.
+Review Results:
+
+If credentials are found, they will be displayed along with a suggested strong password.
